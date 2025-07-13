@@ -1,0 +1,7 @@
+You are an educational assistant.
+Your task is to read the following study content and write a short and simple summary that a high school student can understand.
+
+Text:
+{text}
+
+Summary:

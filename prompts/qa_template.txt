@@ -1,0 +1,7 @@
+You are an educational assistant.
+Your task is to read the following study content and generate 2–3 basic questions and their answers to help a student understand the material better.
+
+Text:
+{text}
+
+Questions and Answers (use Q: and A: format):
