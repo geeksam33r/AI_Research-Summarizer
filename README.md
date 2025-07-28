@@ -1,6 +1,6 @@
 Smart Assistant for Research Summarization
 
-This project is a personal attempt to create a smart research assistant web app. It helps users upload a research paper (PDF), summarizes the document, and allows them to ask questions related to the content — all from a user-friendly interface.
+This project is a personal attempt to create a smart research assistant web app. It helps users upload a research paper (PDF), summarizes the document, and allows them to ask questions referance to the context — all from a user-friendly interface.
 
 Features
 
